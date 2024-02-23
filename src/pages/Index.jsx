@@ -3,7 +3,7 @@ import { FaInstagram, FaFacebook, FaTwitter, FaDumbbell } from "react-icons/fa";
 
 const Index = () => {
   return (
-    <Box>
+    <Box bg="#FCFF33">
       {/* Navigation Bar */}
       <Flex as="nav" p={4} borderBottomWidth={1} borderColor="gray.200">
         <Box>
